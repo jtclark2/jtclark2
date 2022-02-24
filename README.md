@@ -1,9 +1,8 @@
-Hi, I’m Trevor Clark. 
+### Hi there! I'm Trevor. 
 
-I have an interest in computer vision and robotics. I've worked on the MRO (Mars Reconnaissance Orbiter) team,
-an ed tech company that made interactive whiteboards/projects, and a large robotics med-tech company.
-You will see bits of that in these repos, though I don't want to get sued, so most of the juicy stuff is omitted/private.
-
-Over the last year+, I've focused full-time on learning ML/RL/Robotics/Games. 
-I'm so thankful for the rich online communities and the availability of so many online learning resources that
-have enabled me to continuously learning and grow.
+I love programming, machine learning, computer vision, robotics, and reinforcement learning!
+I've worked with the Mars Reconnaissance Orbiter, the Da Vinci Surgical Robot, eBeam Interactive Surfaces, and the Relativistic Heavy Ion Collider!
+I've led teams and focused on individual technical contributions. 
+My last job focused on software automation and computer vision. Recently, I've been deepening my knowledge of computer vision and Deep Learning. 
+I love to learn and hope to continue learning and growing every day!
+Check out my [website](https://jtclark2.github.io/) to see some of my more presentable / visually interesting projects, or dive straight into the code here at github to see all my ideas...including many that still have some maturing to do!
