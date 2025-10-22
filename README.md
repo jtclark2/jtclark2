@@ -4,4 +4,4 @@ I’m a Staff Software Engineer with 15 years of experience designing and integr
 
 I thrive in early-stage, open-ended problem solving—bringing a holistic systems perspective and a practical mindset to every challenge. My guiding belief: complex solutions don’t have to be complicated.
 
-[Explore my work and interests](https://jtclark2.github.io/)
+[Portfolio](https://jtclark2.github.io/)
